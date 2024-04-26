@@ -1,4 +1,4 @@
-# app-1-hannin-wa-odoru
+# boardgames-1 | hannin-wa-odoru
 
 ## Project setup
 ```
