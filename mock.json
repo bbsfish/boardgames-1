@@ -1,0 +1,163 @@
+{
+  "rooms": [
+    {
+      "id": "room-1"
+    },
+    {
+      "id": "room-2"
+    },
+    {
+      "id": "room-id-1"
+    },
+    {
+      "id": "room-3"
+    },
+    {
+      "id": "room-4"
+    },
+    {
+      "id": "room-5"
+    },
+    {
+      "id": "room-6"
+    }
+  ],
+  "users": [
+    {
+      "id": "01HNW12XWH8CXVA376G4GFR6TR",
+      "room": "room-1"
+    },
+    {
+      "id": "01HNW148351WVEGRN1YTPMYM50",
+      "room": "room-1"
+    },
+    {
+      "id": "01HNW14SKBW12XMQ4BK75N2E2X",
+      "room": "room-2"
+    },
+    {
+      "id": "01HNW2W1YH549WSMS05P1758NR",
+      "room": "room-id-1"
+    },
+    {
+      "id": "01HNW2ZDZP2KN9DZH3P04AF8TH",
+      "room": "room-1"
+    },
+    {
+      "id": "01HNW37QG20Y9K1230PJ9Y4RAA",
+      "room": "room-1"
+    },
+    {
+      "id": "01HNW397MG8FMYZR7FPJYTP6J3",
+      "room": "room-1"
+    },
+    {
+      "id": "01HNW3D2EW3HP444QRNCSK1KYT",
+      "room": "room-1"
+    },
+    {
+      "id": "01HNW3DSG390NNYKGV2NXHQVM6",
+      "room": "room-1"
+    },
+    {
+      "id": "01HNW3EQVWRFC5SXQ93PZXMAK2",
+      "room": "room-1"
+    },
+    {
+      "id": "01HNW3H36QF7J32H7DMAGENC83",
+      "room": "room-1"
+    },
+    {
+      "id": "01HNW3JXRR86F7DE76VCW4597P",
+      "room": "room-1"
+    },
+    {
+      "id": "01HNW3KX2N5R4QS3R5WR12XX1V",
+      "room": "room-1"
+    },
+    {
+      "id": "01HNW3Q3DDZ9FDQC8YVJ0VJSD3",
+      "room": "room-1"
+    },
+    {
+      "id": "01HNW3R0PD2K2ZY7TANCYFFDZN",
+      "room": "room-1"
+    },
+    {
+      "id": "01HNW3S54Y5H6QX9J584MM7FKJ",
+      "room": "room-1"
+    },
+    {
+      "id": "01HNW3VG7BMB6FRWWKBN6TTCKT",
+      "room": "room-1"
+    },
+    {
+      "id": "01HNW479XWKM7M5RSJN7Q668BT",
+      "room": "room-1"
+    },
+    {
+      "id": "01HNW47WE6Q9HZK1Y4GAHKX1NZ",
+      "room": "room-3"
+    },
+    {
+      "id": "01HNW48X90V7C7VWCDRYZX4SG0",
+      "room": "room-3"
+    },
+    {
+      "id": "01HNW4SG5RY6AWPG0DPG6M0XY6",
+      "room": "room-3"
+    },
+    {
+      "id": "01HNW529NXD3H58P1X546Y6ABT",
+      "room": "room-4"
+    },
+    {
+      "id": "01HNW532D3PPXK3SQAG0FE5SCJ",
+      "room": "room-4"
+    },
+    {
+      "id": "01HNW58BDZFCAP21X5KPMJFM2A",
+      "room": "room-5"
+    },
+    {
+      "id": "01HNW58S689VT9Y338E41AMWW2",
+      "room": "room-5"
+    },
+    {
+      "id": "01HNW5AP3ABK0B78WC5PADRF9N",
+      "room": "room-6"
+    },
+    {
+      "id": "01HNW5BCA8KWB0T9TCAX6HFFQ0",
+      "room": "room-6"
+    },
+    {
+      "id": "01HNW5RKV176SJ64GT7V8BXGVE",
+      "room": "room-1"
+    },
+    {
+      "id": "01HNW5S6XPZE7T4DV0S87JKBH7",
+      "room": "room-1"
+    },
+    {
+      "id": "01HNW5ZGCZE0YSYV4F3M4CDN5B",
+      "room": "room-1"
+    },
+    {
+      "id": "01HNW603TR7ERKPKDP5HZ5064A",
+      "room": "room-1"
+    },
+    {
+      "id": "01HNW60RXQ1DEJF3C84DHD4QZX",
+      "room": "room-1"
+    },
+    {
+      "id": "01HNW69ZTT1SVBDDFWBVZFCC20",
+      "room": "room-1"
+    },
+    {
+      "id": "01HNW6AGPMMN149HMN37XR40AJ",
+      "room": "room-1"
+    }
+  ]
+}
